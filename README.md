@@ -1,2 +1,2 @@
 # mobile-operators-price-comparator-wp
-Mobile comparator - Wordpress plugin
+Mobile operators priece comparator - Wordpress plugin
